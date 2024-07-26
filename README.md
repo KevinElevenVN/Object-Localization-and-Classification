@@ -25,4 +25,4 @@
     ```
     
 ## Results
-<img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png" alt="YOLOv8 performance plots"></a>
+<img width="100%" src="assets/result.png" alt="YOLOv8 performance plots"></a>
