@@ -33,3 +33,9 @@ To use the custom dataset for this project, please download it from the followin
     
 ## Results
 <img width="100%" src="assets/results.png" alt="YOLOv8 performance plots"></a>
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- [Inception-v3](https://github.com/pytorch/vision/blob/main/torchvision/models/inception.py)
