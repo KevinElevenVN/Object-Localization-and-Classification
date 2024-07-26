@@ -29,7 +29,7 @@
 ## Datasets
 To use the custom dataset for this project, please download it from the following Google Drive link:
 
-[Download Dataset]((https://drive.google.com/drive/folders/17gH7V77CQ9TP8NqOSK9iToDXGio-ErwW?usp=sharing))
+[Download Dataset](https://drive.google.com/drive/folders/17gH7V77CQ9TP8NqOSK9iToDXGio-ErwW?usp=sharing)
     
 ## Results
 <img width="100%" src="assets/results.png" alt="YOLOv8 performance plots"></a>
