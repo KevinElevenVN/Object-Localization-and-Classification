@@ -32,6 +32,11 @@ To use the custom dataset for this project, please download it from the followin
 [Download Dataset](https://drive.google.com/drive/folders/17gH7V77CQ9TP8NqOSK9iToDXGio-ErwW?usp=sharing)
     
 ## Results
+|               | Mean IoU | Accuracy |
+| ------------- | -------- | -------- |
+| Inception-V3  |**0.7363**|**0.9362**|
+
+<br>
 <img width="100%" src="assets/results.png" alt="YOLOv8 performance plots"></a>
 
 ## License
